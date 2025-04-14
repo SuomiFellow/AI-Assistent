@@ -3,7 +3,7 @@
 
 Ссылка на проект @Moozi_Moozi_DT_bot
 
-![Скриншот 1] (https://github.com/SuomiFellow/AI-Assistent/blob/main/58445cc114f211f080b4e234cd868471_1.jpg?raw=true)
+![Скриншот 1](https://github.com/SuomiFellow/AI-Assistent/blob/main/58445cc114f211f080b4e234cd868471_1.jpg?raw=true)
 
 
 ## Описание проекта
